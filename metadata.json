@@ -1,0 +1,6 @@
+{
+  "name": "NeuroVerse AI",
+  "description": "Next-generation futuristic 3D web application powered by Gemini, featuring immersive scrolling chapters and interactive AI worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
