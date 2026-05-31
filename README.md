@@ -1,13 +1,16 @@
-<div align="center">
-<img width="2936" height="1682" alt="image" src="https://github.com/user-attachments/assets/5f1658a6-5b4e-4c9f-bad5-3ca600db3d07" />
-
-</div>
 
 # Run and deploy your app
 
 This contains everything you need to run your app locally.
 
 View our app at : https://neuroverse-ai-485600757233.asia-southeast1.run.app/
+
+<h1>Preview</h1>
+<div align="center">
+<img width="2936" height="1682" alt="image" src="https://github.com/user-attachments/assets/5f1658a6-5b4e-4c9f-bad5-3ca600db3d07" />
+
+</div>
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
